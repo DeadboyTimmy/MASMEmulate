@@ -1,0 +1,7 @@
+chose action,  esc: end prog
+use strelki,   enter: return
+esi: strelki,  enter: return
+edi: strelki,  enter: return
+vvod al,       enter: return
+vvod ecx,      enter: return
+Command up/downenter: return

@@ -1,0 +1,34 @@
+String Commands
+Work for this program:
+Samylov Nikita
+Ilya Kolsanov
+Artem Scipchak
+Program desription:
+This program shows the action of string commands
+A brief desciption of the program:
+1)A person enters lines or uses the button to fill in the lines automatically.
+2)Next you choose what state the DF flag will be in, where edi and esi will be
+set
+3)What the registers ecx and al will contain. 
+4)Next you work with line commands, choose a prefix from the list (optional)
+and also choose a line command. 
+5)The computer performs the actions either at some intervals or all at once
+depending on the selection.
+v: input str
+1: random str1
+2: random str2
+s: change esi
+d: change edi
+a: change al
+c: change ecx
+f: change df
+k: new command
+r: command run
+space: run step
+chose action,  esc: end prog
+use strelki,   enter: return
+esi: strelki,  enter: return
+edi: strelki,  enter: return
+vvod al,       enter: return
+vvod ecx,      enter: return
+Command up/downenter: return

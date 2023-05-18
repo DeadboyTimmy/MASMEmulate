@@ -1,0 +1,5 @@
+cmp [edi],[esi]
+mov [edi],[esi]
+cmp al,[edi]
+mov al,[esi]
+mov [edi],al
